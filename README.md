@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @hamachersimon
 - 📫 How to reach me [Simon Hamacher](mailto:Simon.Hamacher@bertrandt.com?subject=[GitHub])
+- :link: My website [shamacher.eu](www.shamacher.eu) 
